@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there! 👋  
 
-<!--
-**Ha04Bh0530/Ha04Bh0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my experimental playground on GitHub! This space is where I tinker with ideas, break things (intentionally... mostly), and explore the endless possibilities of code. Expect randomness, unfinished experiments, and the occasional stroke of brilliance. 😆  
 
-Here are some ideas to get you started:
+## 🔧 What I’m Exploring  
+- Web development (React, TypeScript, TailwindCSS — still learning!)  
+- Linux tweaks & optimizations 🐧  
+- Random scripts that may or may not serve a purpose  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current State of Mind  
+> "Code, break, fix, repeat." – A perfectly balanced workflow. 😜  
+
+Feel free to browse through my projects—just don’t expect perfection. If something catches your eye, let's chat!
